@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+author: "Nguyet Nguyen"
 output:
   html_document:
     theme: cosmo

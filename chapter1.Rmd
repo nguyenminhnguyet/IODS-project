@@ -3,11 +3,14 @@
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
 
+
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
 
 date()
 
 ```
-The text continues here.
+This course is exactly what I am looking for. I was trying to find a data science course that use R to solve problems at bot Aalto University and University of Helsinki, then I came across this course: Introduction to Open Data Science. I hope to achieve more things during the course. Thank you!
 
+Please have a look at my Github Repository. 
+https://github.com/nguyenminhnguyet/IODS-project
